@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 - 📚 Learning how to make web apps more interactive with **JavaScript** and **TypeScript**
 
 ---
-
-### 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=baloo)](https://leetcode.com/tiya04/)
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=setiyawt04&show_icons=true&theme=radical)
 
 ---
