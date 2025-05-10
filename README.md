@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **Frontend Development**, focusing on **React**, and **TailwindCSS**.
-- 🌱 I’m currently learning more about **JavaScript**, **TypeScript**, and building responsive web apps.
+- 🌱 I’m currently learning more about **JavaScript**, and building responsive web apps.
 
 ---
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### 💡 Current Focus
 - 🌐 Building user interfaces using **React**, and **TailwindCSS**
 - 🎨 Focusing on responsive design and clean UI/UX
-- 📚 Learning how to make web apps more interactive with **JavaScript** and **TypeScript**
+- 📚 Learning how to make web apps more interactive with **JavaScript**
 
 ---
 ### 📈 GitHub Stats
