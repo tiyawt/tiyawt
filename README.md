@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ---
 ### 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setiyawt04&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiyawt&layout=compact&theme=radical)
 
 ---
