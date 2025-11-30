@@ -24,7 +24,7 @@ Right now I’m focusing on **React**, **Next.js**, and modern JavaScript toolin
 ### 🔗 Leetcode
 
 <p>
-  <a href="https://leetcode.com/tiyawt/">
+  <a href="https://leetcode.com/tiya04/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
